@@ -1,0 +1,40 @@
+{
+  "args": {}, 
+  "data": "", 
+  "files": {}, 
+  "form": {
+    "comments": "", 
+    "custemail": "", 
+    "custname": "Srujan Chandra", 
+    "custtel": "07625015542", 
+    "delivery": "", 
+    "size": "medium", 
+    "topping": "cheese"
+  }, 
+  "headers": {
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", 
+    "Accept-Encoding": "gzip, deflate, br, zstd", 
+    "Accept-Language": "en-GB,en;q=0.9,en-US;q=0.8,en-IN;q=0.7", 
+    "Cache-Control": "no-cache", 
+    "Content-Length": "101", 
+    "Content-Type": "application/x-www-form-urlencoded", 
+    "Host": "httpbin.org", 
+    "Origin": "https://httpbin.org", 
+    "Pragma": "no-cache", 
+    "Priority": "u=0, i", 
+    "Referer": "https://httpbin.org/forms/post", 
+    "Sec-Ch-Ua": "\"Chromium\";v=\"146\", \"Not-A.Brand\";v=\"24\", \"Microsoft Edge\";v=\"146\"", 
+    "Sec-Ch-Ua-Mobile": "?1", 
+    "Sec-Ch-Ua-Platform": "\"Android\"", 
+    "Sec-Fetch-Dest": "document", 
+    "Sec-Fetch-Mode": "navigate", 
+    "Sec-Fetch-Site": "same-origin", 
+    "Sec-Fetch-User": "?1", 
+    "Upgrade-Insecure-Requests": "1", 
+    "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36 Edg/146.0.0.0", 
+    "X-Amzn-Trace-Id": "Root=1-69cf5e09-0944e2aa5c2b0614177147ef"
+  }, 
+  "json": null, 
+  "origin": "106.221.201.167", 
+  "url": "https://httpbin.org/post"
+}
